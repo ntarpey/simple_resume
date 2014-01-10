@@ -9,7 +9,7 @@ div {
 	width: 98.5%;
 	margin-top: -20px;
 	height: 60px;
-	background-color: #3300ff;
+	background-color: #3399ff;
 	margin-bottom: 10px;
 }
 
@@ -42,7 +42,7 @@ h4 {
 	margin-left: 5px;
 	margin-right: 5px;
 	margin-top: -10px;
-	font-family: Garamond, serif;
+	font-family: Verdana, sans-serif;
 	color: #000000;
 	
 }
@@ -60,8 +60,8 @@ a:hover {
 	float: left;
 	margin-top: 50px;
 	width: 10%;
-	height: 620px;
-	background-color: #FFFFCC;
+	height: 700px;
+	background-color: #66ff66;
 	margin-bottom: 10px;
 }
 
@@ -70,9 +70,10 @@ a:hover {
 	float: right;
 	margin-top: 50px;
 	width: 88%;
-	height: 620px;
-	background-color: red;
+	height: 700px;
+	background-color: #ccffff;
 	margin-bottom: 10px;
+	
 }
 
 #footer {
